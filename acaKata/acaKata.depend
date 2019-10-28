@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571044907 source:e:\inventori\acakata\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+
